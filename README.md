@@ -1,4 +1,4 @@
-# cs-kickstart-curriculum20
-Curriculum development for CS Kickstart (2020)
+# CS Kickstart 2020
+Curriculum development for CS Kickstart (Summer 2020)
 
-The following document is a collection of the class materials CSK Curriculum Committee is working on in the 2020 spring semester. (Links TBA) 
+The following folders are all the course materials and slides presented, as well as the code for the CSK curriculum website! All of these materials are either developed by the CSK curriculum committee or sourced from UC Berkeley's introductory course, CS61a. 
