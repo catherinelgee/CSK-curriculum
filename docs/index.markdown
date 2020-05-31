@@ -8,10 +8,10 @@ layout: home
 ---
 
 ## CSK @ Berkeley
-Jump to <a href="CONTENT">content</a>, <a href="RESOURCES">resources</a>, <a href="STAFF">staff</a>, 
+Jump to <a href="#CONTENT">content</a>, <a href="#RESOURCES">resources</a>, <a href="#STAFF">staff</a>,
 
 ---
-<a id= "CONTENT">
+<a id="CONTENT">
 ## Content
 - This schedule is tentative and due to change
 
