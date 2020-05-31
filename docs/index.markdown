@@ -44,13 +44,12 @@ Jump to <a href="#CONTENT">content</a>, <a href="#RESOURCES">resources</a>, <a h
 ## Resources
 Here is a list of resources that's not directly our course materials that you might find helpful in learning more about the topics that we cover, as well as Berkeley as a whole!
 - Extra Practice: some extra problems I have collated that you can do in your free time (lol)
-- EE/CS/DS freshman track course links:
+- EE/CS/DS first semester class links:
     - [DATA8](data8.org): Introductory course to data science
         - [CS88](https://cs88-website.github.io/): this is a course meant to replace 61A for a data science intended major/minor
-    - [CS61A](https://cs61a.org/):
-    - [EE16A](http://inst.eecs.berkeley.edu/~ee16a/):
-    - [CS61B](http://www-inst.eecs.berkeley.edu/~cs61b/):
-    - [EE16B](https://inst.eecs.berkeley.edu/~ee16b/):
+    - [CS10](https://cs10.org/): Intro CS class for those with no prior experience (take before CS61A)
+    - [CS61A](https://cs61a.org/): Intro CS class
+    - [EE16A](http://inst.eecs.berkeley.edu/~ee16a/): Intro EE class
 - [HKN](https://hkn.eecs.berkeley.edu/): Useful for looking for past exams as well as course tracks you can take
 - [AWE Guide to Declaring CS](https://awe.berkeley.edu/2020/04/23/guide-to-declaring-cs/)
 
