@@ -4,8 +4,6 @@
 
 layout: home
 ---
-#  CS KICKSTART 2020
----
 
 ## CSK @ Berkeley
 Jump to (todo: figure out how to jump places)
