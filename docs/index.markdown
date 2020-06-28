@@ -58,6 +58,4 @@ Here is a list of resources that's not directly our course materials that you mi
 ## Staff
 If there are any questions about curriculum on this website you can direct any and all emails to either [cskickstart@gmail.com](mailto:cskickstart@gmail.com) or [catherinegee@berkeley.edu](mailto:catherinegee@berkeley.edu)
 
-### Instructors
-
 ### Teaching Assistants
