@@ -1,12 +1,12 @@
 Day,Section,Topic,Resources
 1,Python,Introductions / Variables and Values (1.5hrs),https://docs.google.com/presentation/d/1cxfYrb5Jm664Sif3erCw9abaM6vW8J9LIvpGn-6Y5XE/edit?usp=sharing|slides https://github.com/|lab
-,Seminar,WEB DEV1,https://cs61a.org/|slides https://github.com/|lab
+,Seminar,Data science,https://cs61a.org/|slides https://github.com/|lab
 2,Python,Control / Loops (1.5 hrs),https://docs.google.com/presentation/d/1XkQ_ZriZCHfO4g9fHBiTTd9szojW_5oBdAhVp5Kmyvg/edit?usp=sharing|slides https://github.com/|lab
-,Seminar,WEB DEV2,https://cs61a.org/|slides https://github.com/|lab
-3,Python,Functionality (1.5 hrs),https://docs.google.com/presentation/d/1x0rVTSPPJYsphn875POtr_KR9LvuyKnbg_wq4B_THgI/edit?usp=sharing|slides https://github.com/|lab
 ,Seminar,EE (michelle),https://cs61a.org/|slides https://github.com/|lab
+3,Python,Functionality (1.5 hrs),https://docs.google.com/presentation/d/1x0rVTSPPJYsphn875POtr_KR9LvuyKnbg_wq4B_THgI/edit?usp=sharing|slides https://github.com/|lab
+,Seminar,WEBDEV1,https://cs61a.org/|slides https://github.com/|lab
 4,Python,Project (3 hrs),https://cs61a.org/|OH
 ,Python (extra),Recursion / Tree Recursion (extra lecture),https://cs61a.org/|slides https://github.com/|lab
-,Seminar,Data Science & Machine Learning,https://cs61a.org/|slides https://github.com/|lab
+,Seminar,WEBDEV2,https://cs61a.org/|slides https://github.com/|lab
 5,Seminar,EE (diyah),https://cs61a.org/|slides https://github.com/|lab
 ,Project Review,Showcase and Farewells,
