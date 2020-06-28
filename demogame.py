@@ -42,6 +42,7 @@ game_time = 0
 # List of names you can make friends with
 friends = ["Amy", "Carl", "Cara", "Kevin", "Chad", "Catherine", "Julia", "Rachel", "Stephan"]
 met_people = []
+confirmed_friends = []
 
 # Below is an example of calling a function.
 slow_type("Hello there! Before we embark on this Cal adventure, what is your name?")
@@ -85,7 +86,8 @@ if first_choice == 0:
     slow_type("You have arrived at the Campanile! The Campanile is the third-tallest bell and clock-tower \
     in the world, and an integral part of the campus experience. You can ride up the Campanile for free \
     if you have your student ID! You spot some students about to go up, but are unsure if you want to join them \
-    because you still haven't found your GBO group. Do you join them? \n y/n")
+    because you still haven't found your GBO group. The students see you and ask if you want to go up with them.\
+    Do you go up? \n y/n")
     path = 1
 elif first_choice == 1:
     slow_type("You arrive at the gate and notice a couple of things. In front of you is a lot of tables with people handing out flyers. \
@@ -125,6 +127,7 @@ else:
             get a 4.0 this semester, and it's all thanks to this hill. Once you're done rolling the other person \
             turns to you and asks if we want to hang out.\n y/n")
             options = 0
+    game_time += 1
     path = 1
 
 game_time += 1
@@ -139,7 +142,9 @@ def friend_path(num_friends, potential, choice):
     rates of success contingent on current number of friends and other factors"""
     if choice == "n":
         # then you don't want to make friends ):
-        slow_type("You politely tell them no thanks.")
+        slow_type("You politely tell them no thanks. In the future though, it might be \
+        a good idea to make friends. It might seem a little daunting at first but it's \
+        not that bad, we promise!")
         return
 
     luck = rand.random() #percentage chance of making friend(s)
@@ -169,4 +174,14 @@ def explore_path(num_friends, curr_time):
 # ~ Second choice (following the paths) ~
 ######################################################
 
-if
+if path == 1:
+    # follow the friend paths
+    if first_choice == 0:
+        camp_students = rand.sample(friends, 5)
+        met_people += camp_students
+        friend_path(len(confirmed_friends), camp_students, rand.randrange(5))
+    else: #this is the path for the 4.0 hill
+        friend_path(len(confirmed_friends), met_people, 1)
+if path == 2:
+    if int(second_choice) == 0:
+        club_path(game_time)
