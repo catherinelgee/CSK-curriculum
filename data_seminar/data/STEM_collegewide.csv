@@ -1,0 +1,289 @@
+Year,Institution,Type,Gender,CIP Fld,Degree Count
+2016-17,Harvard,Private,Female,Archeology,5
+2016-17,Harvard,Private,Female,Behavioral Sciences,11
+2016-17,Harvard,Private,Female,Biological and Biomedical Sciences,164
+2016-17,Harvard,Private,Female,Cognitive Psychology and Psycholinguistics,0
+2016-17,Harvard,Private,Female,Computer Science,65
+2016-17,Harvard,Private,Female,Engineering,26
+2016-17,Harvard,Private,Female,Environmental Studies,14
+2016-17,Harvard,Private,Female,Experimental Psychology,87
+2016-17,Harvard,Private,Female,Mathematics and Statistics,78
+2016-17,Harvard,Private,Female,Natural Sciences,10
+2016-17,Harvard,Private,Female,Physical Sciences,47
+2016-17,Harvard,Private,Male,Archeology,0
+2016-17,Harvard,Private,Male,Behavioral Sciences,1
+2016-17,Harvard,Private,Male,Biological and Biomedical Sciences,105
+2016-17,Harvard,Private,Male,Cognitive Psychology and Psycholinguistics,0
+2016-17,Harvard,Private,Male,Computer Science,165
+2016-17,Harvard,Private,Male,Engineering,52
+2016-17,Harvard,Private,Male,Environmental Studies,19
+2016-17,Harvard,Private,Male,Experimental Psychology,51
+2016-17,Harvard,Private,Male,Mathematics and Statistics,149
+2016-17,Harvard,Private,Male,Natural Sciences,19
+2016-17,Harvard,Private,Male,Physical Sciences,74
+2016-17,Illinois,Public,Female,Actuarial Science,56
+2016-17,Illinois,Public,Female,Agronomy and Crop Science,18
+2016-17,Illinois,Public,Female,"Animal Sciences, General",117
+2016-17,Illinois,Public,Female,Biological and Biomedical Sciences,262
+2016-17,Illinois,Public,Female,"Computer and Information Sciences, Other",3
+2016-17,Illinois,Public,Female,Computer Science,43
+2016-17,Illinois,Public,Female,Engineering,323
+2016-17,Illinois,Public,Female,Environmental Science,29
+2016-17,Illinois,Public,Female,Food Science,78
+2016-17,Illinois,Public,Female,Horticultural Science,1
+2016-17,Illinois,Public,Female,Mathematics and Computer Science,9
+2016-17,Illinois,Public,Female,Mathematics and Statistics,137
+2016-17,Illinois,Public,Female,Physical Sciences,95
+2016-17,Illinois,Public,Female,"Research and Experimental Psychology, Other",351
+2016-17,Illinois,Public,Female,Systems Science and Theory,38
+2016-17,Illinois,Public,Male,Actuarial Science,53
+2016-17,Illinois,Public,Male,Agronomy and Crop Science,28
+2016-17,Illinois,Public,Male,"Animal Sciences, General",19
+2016-17,Illinois,Public,Male,Biological and Biomedical Sciences,227
+2016-17,Illinois,Public,Male,"Computer and Information Sciences, Other",10
+2016-17,Illinois,Public,Male,Computer Science,212
+2016-17,Illinois,Public,Male,Engineering,"1,420"
+2016-17,Illinois,Public,Male,Environmental Science,33
+2016-17,Illinois,Public,Male,Food Science,16
+2016-17,Illinois,Public,Male,Horticultural Science,2
+2016-17,Illinois,Public,Male,Mathematics and Computer Science,51
+2016-17,Illinois,Public,Male,Mathematics and Statistics,208
+2016-17,Illinois,Public,Male,Physical Sciences,172
+2016-17,Illinois,Public,Male,"Research and Experimental Psychology, Other",157
+2016-17,Illinois,Public,Male,Systems Science and Theory,20
+2016-17,Michigan,Public,Female,Biological and Biomedical Sciences,375
+2016-17,Michigan,Public,Female,Cognitive Science,31
+2016-17,Michigan,Public,Female,"Computer and Information Sciences, General",99
+2016-17,Michigan,Public,Female,Data Modeling/Warehousing and Database Administration,3
+2016-17,Michigan,Public,Female,Engineering,355
+2016-17,Michigan,Public,Female,Environmental Studies,70
+2016-17,Michigan,Public,Female,Experimental Psychology,355
+2016-17,Michigan,Public,Female,Informatics,15
+2016-17,Michigan,Public,Female,Information Science/Studies,54
+2016-17,Michigan,Public,Female,Mathematics and Statistics,120
+2016-17,Michigan,Public,Female,"Natural Resources/Conservation, General",0
+2016-17,Michigan,Public,Female,Pharmaceutical Sciences,1
+2016-17,Michigan,Public,Female,Physical Sciences,45
+2016-17,Michigan,Public,Female,Physiological Psychology/Psychobiology,240
+2016-17,Michigan,Public,Male,Biological and Biomedical Sciences,334
+2016-17,Michigan,Public,Male,Cognitive Science,18
+2016-17,Michigan,Public,Male,"Computer and Information Sciences, General",412
+2016-17,Michigan,Public,Male,Data Modeling/Warehousing and Database Administration,14
+2016-17,Michigan,Public,Male,Engineering,854
+2016-17,Michigan,Public,Male,Environmental Studies,33
+2016-17,Michigan,Public,Male,Experimental Psychology,95
+2016-17,Michigan,Public,Male,Informatics,11
+2016-17,Michigan,Public,Male,Information Science/Studies,41
+2016-17,Michigan,Public,Male,Mathematics and Statistics,175
+2016-17,Michigan,Public,Male,"Natural Resources/Conservation, General",0
+2016-17,Michigan,Public,Male,Pharmaceutical Sciences,5
+2016-17,Michigan,Public,Male,Physical Sciences,105
+2016-17,Michigan,Public,Male,Physiological Psychology/Psychobiology,75
+2016-17,MIT,Private,Female,Biological and Biomedical Sciences,61
+2016-17,MIT,Private,Female,Cognitive Science,0
+2016-17,MIT,Private,Female,Computer Science,140
+2016-17,MIT,Private,Female,Econometrics and Quantitative Economics,14
+2016-17,MIT,Private,Female,Engineering,245
+2016-17,MIT,Private,Female,"Management Science and Quantitative Methods, Other",10
+2016-17,MIT,Private,Female,Mathematics and Computer Science,6
+2016-17,MIT,Private,Female,Mathematics and Statistics,32
+2016-17,MIT,Private,Female,Physical Sciences,35
+2016-17,MIT,Private,Male,Biological and Biomedical Sciences,32
+2016-17,MIT,Private,Male,Cognitive Science,0
+2016-17,MIT,Private,Male,Computer Science,238
+2016-17,MIT,Private,Male,Econometrics and Quantitative Economics,9
+2016-17,MIT,Private,Male,Engineering,226
+2016-17,MIT,Private,Male,"Management Science and Quantitative Methods, Other",12
+2016-17,MIT,Private,Male,Mathematics and Computer Science,18
+2016-17,MIT,Private,Male,Mathematics and Statistics,82
+2016-17,MIT,Private,Male,Physical Sciences,61
+2016-17,Princeton,Private,Female,Biological and Biomedical Sciences,75
+2016-17,Princeton,Private,Female,Econometrics and Quantitative Economics,46
+2016-17,Princeton,Private,Female,Engineering,128
+2016-17,Princeton,Private,Female,Experimental Psychology,34
+2016-17,Princeton,Private,Female,Mathematics and Statistics,2
+2016-17,Princeton,Private,Female,Physical Sciences,41
+2016-17,Princeton,Private,Male,Biological and Biomedical Sciences,42
+2016-17,Princeton,Private,Male,Econometrics and Quantitative Economics,83
+2016-17,Princeton,Private,Male,Engineering,212
+2016-17,Princeton,Private,Male,Experimental Psychology,11
+2016-17,Princeton,Private,Male,Mathematics and Statistics,30
+2016-17,Princeton,Private,Male,Physical Sciences,36
+2016-17,Stanford,Private,Female,Archeology,1
+2016-17,Stanford,Private,Female,Biological and Biomedical Sciences,40
+2016-17,Stanford,Private,Female,Cognitive Science,21
+2016-17,Stanford,Private,Female,Computer Science,88
+2016-17,Stanford,Private,Female,Engineering,126
+2016-17,Stanford,Private,Female,Engineering/Industrial Management,19
+2016-17,Stanford,Private,Female,Human Biology,98
+2016-17,Stanford,Private,Female,Mathematics and Statistics,24
+2016-17,Stanford,Private,Female,Physical Sciences,29
+2016-17,Stanford,Private,Male,Archeology,1
+2016-17,Stanford,Private,Male,Biological and Biomedical Sciences,39
+2016-17,Stanford,Private,Male,Cognitive Science,42
+2016-17,Stanford,Private,Male,Computer Science,185
+2016-17,Stanford,Private,Male,Engineering,221
+2016-17,Stanford,Private,Male,Engineering/Industrial Management,35
+2016-17,Stanford,Private,Male,Human Biology,32
+2016-17,Stanford,Private,Male,Mathematics and Statistics,50
+2016-17,Stanford,Private,Male,Physical Sciences,47
+2016-17,Texas,Public,Female,Archeology,1
+2016-17,Texas,Public,Female,Biological and Biomedical Sciences,646
+2016-17,Texas,Public,Female,Biological and Physical Sciences,0
+2016-17,Texas,Public,Female,Clinical Laboratory Science/Medical Technology/Technologist,11
+2016-17,Texas,Public,Female,"Computer and Information Sciences, General",82
+2016-17,Texas,Public,Female,Engineering,335
+2016-17,Texas,Public,Female,Mathematics and Computer Science,0
+2016-17,Texas,Public,Female,Mathematics and Statistics,130
+2016-17,Texas,Public,Female,Physical Sciences,123
+2016-17,Texas,Public,Male,Archeology,0
+2016-17,Texas,Public,Male,Biological and Biomedical Sciences,468
+2016-17,Texas,Public,Male,Biological and Physical Sciences,0
+2016-17,Texas,Public,Male,Clinical Laboratory Science/Medical Technology/Technologist,6
+2016-17,Texas,Public,Male,"Computer and Information Sciences, General",395
+2016-17,Texas,Public,Male,Engineering,832
+2016-17,Texas,Public,Male,Mathematics and Computer Science,0
+2016-17,Texas,Public,Male,Mathematics and Statistics,187
+2016-17,Texas,Public,Male,Physical Sciences,205
+2016-17,UC Berkeley,UC Berkeley,Female,Biological and Biomedical Sciences,558
+2016-17,UC Berkeley,UC Berkeley,Female,Cognitive Science,155
+2016-17,UC Berkeley,UC Berkeley,Female,Computer Science,146
+2016-17,UC Berkeley,UC Berkeley,Female,Econometrics and Quantitative Economics,286
+2016-17,UC Berkeley,UC Berkeley,Female,Engineering,224
+2016-17,UC Berkeley,UC Berkeley,Female,Environmental Science,40
+2016-17,UC Berkeley,UC Berkeley,Female,Environmental Studies,136
+2016-17,UC Berkeley,UC Berkeley,Female,Experimental Psychology,270
+2016-17,UC Berkeley,UC Berkeley,Female,Mathematics and Statistics,224
+2016-17,UC Berkeley,UC Berkeley,Female,"Natural Resources Conservation and Research, Other",22
+2016-17,UC Berkeley,UC Berkeley,Female,"Natural Resources/Conservation, General",46
+2016-17,UC Berkeley,UC Berkeley,Female,Nutrition Sciences,74
+2016-17,UC Berkeley,UC Berkeley,Female,Physical Sciences,121
+2016-17,UC Berkeley,UC Berkeley,Male,Biological and Biomedical Sciences,387
+2016-17,UC Berkeley,UC Berkeley,Male,Cognitive Science,105
+2016-17,UC Berkeley,UC Berkeley,Male,Computer Science,410
+2016-17,UC Berkeley,UC Berkeley,Male,Econometrics and Quantitative Economics,329
+2016-17,UC Berkeley,UC Berkeley,Male,Engineering,705
+2016-17,UC Berkeley,UC Berkeley,Male,Environmental Science,19
+2016-17,UC Berkeley,UC Berkeley,Male,Environmental Studies,102
+2016-17,UC Berkeley,UC Berkeley,Male,Experimental Psychology,80
+2016-17,UC Berkeley,UC Berkeley,Male,Mathematics and Statistics,323
+2016-17,UC Berkeley,UC Berkeley,Male,"Natural Resources Conservation and Research, Other",18
+2016-17,UC Berkeley,UC Berkeley,Male,"Natural Resources/Conservation, General",17
+2016-17,UC Berkeley,UC Berkeley,Male,Nutrition Sciences,16
+2016-17,UC Berkeley,UC Berkeley,Male,Physical Sciences,201
+2016-17,UC San Diego,Other UC,Female,Biological and Biomedical Sciences,"1,020"
+2016-17,UC San Diego,Other UC,Female,Cognitive Psychology and Psycholinguistics,13
+2016-17,UC San Diego,Other UC,Female,Cognitive Science,129
+2016-17,UC San Diego,Other UC,Female,Computer Science,114
+2016-17,UC San Diego,Other UC,Female,Developmental and Child Psychology,17
+2016-17,UC San Diego,Other UC,Female,Engineering,293
+2016-17,UC San Diego,Other UC,Female,Environmental Studies,26
+2016-17,UC San Diego,Other UC,Female,Management Science,136
+2016-17,UC San Diego,Other UC,Female,Mathematics and Computer Science,10
+2016-17,UC San Diego,Other UC,Female,Mathematics and Statistics,151
+2016-17,UC San Diego,Other UC,Female,Physical Sciences,110
+2016-17,UC San Diego,Other UC,Female,Social Psychology,22
+2016-17,UC San Diego,Other UC,Male,Biological and Biomedical Sciences,656
+2016-17,UC San Diego,Other UC,Male,Cognitive Psychology and Psycholinguistics,2
+2016-17,UC San Diego,Other UC,Male,Cognitive Science,87
+2016-17,UC San Diego,Other UC,Male,Computer Science,493
+2016-17,UC San Diego,Other UC,Male,Developmental and Child Psychology,3
+2016-17,UC San Diego,Other UC,Male,Engineering,972
+2016-17,UC San Diego,Other UC,Male,Environmental Studies,15
+2016-17,UC San Diego,Other UC,Male,Management Science,171
+2016-17,UC San Diego,Other UC,Male,Mathematics and Computer Science,47
+2016-17,UC San Diego,Other UC,Male,Mathematics and Statistics,163
+2016-17,UC San Diego,Other UC,Male,Physical Sciences,149
+2016-17,UC San Diego,Other UC,Male,Social Psychology,11
+2016-17,UCLA,Other UC,Female,Biological and Biomedical Sciences,767
+2016-17,UCLA,Other UC,Female,Cognitive Science,40
+2016-17,UCLA,Other UC,Female,Computer Science,32
+2016-17,UCLA,Other UC,Female,Engineering,142
+2016-17,UCLA,Other UC,Female,Environmental Science,42
+2016-17,UCLA,Other UC,Female,Human Biology,50
+2016-17,UCLA,Other UC,Female,Mathematics and Statistics,265
+2016-17,UCLA,Other UC,Female,Physical Sciences,65
+2016-17,UCLA,Other UC,Female,Physiological Psychology/Psychobiology,294
+2016-17,UCLA,Other UC,Male,Biological and Biomedical Sciences,565
+2016-17,UCLA,Other UC,Male,Cognitive Science,22
+2016-17,UCLA,Other UC,Male,Computer Science,151
+2016-17,UCLA,Other UC,Male,Engineering,450
+2016-17,UCLA,Other UC,Male,Environmental Science,23
+2016-17,UCLA,Other UC,Male,Human Biology,13
+2016-17,UCLA,Other UC,Male,Mathematics and Statistics,317
+2016-17,UCLA,Other UC,Male,Physical Sciences,149
+2016-17,UCLA,Other UC,Male,Physiological Psychology/Psychobiology,95
+2016-17,Virginia,Public,Female,Biological and Biomedical Sciences,204
+2016-17,Virginia,Public,Female,"Computer and Information Sciences, General",41
+2016-17,Virginia,Public,Female,Engineering,182
+2016-17,Virginia,Public,Female,Environmental Science,42
+2016-17,Virginia,Public,Female,Mathematics and Statistics,37
+2016-17,Virginia,Public,Female,Physical Sciences,68
+2016-17,Virginia,Public,Male,Biological and Biomedical Sciences,111
+2016-17,Virginia,Public,Male,"Computer and Information Sciences, General",98
+2016-17,Virginia,Public,Male,Engineering,388
+2016-17,Virginia,Public,Male,Environmental Science,28
+2016-17,Virginia,Public,Male,Mathematics and Statistics,70
+2016-17,Virginia,Public,Male,Physical Sciences,109
+2016-17,Wisconsin,Public,Female,Actuarial Science,29
+2016-17,Wisconsin,Public,Female,Agronomy and Crop Science,10
+2016-17,Wisconsin,Public,Female,"Animal Sciences, General",26
+2016-17,Wisconsin,Public,Female,Biological and Biomedical Sciences,650
+2016-17,Wisconsin,Public,Female,"Computer and Information Sciences, General",35
+2016-17,Wisconsin,Public,Female,Dairy Science,5
+2016-17,Wisconsin,Public,Female,Engineering,216
+2016-17,Wisconsin,Public,Female,Environmental Science,31
+2016-17,Wisconsin,Public,Female,Environmental Studies,60
+2016-17,Wisconsin,Public,Female,Food Science,27
+2016-17,Wisconsin,Public,Female,Forest Sciences and Biology,6
+2016-17,Wisconsin,Public,Female,Geographic Information Science and Cartography,6
+2016-17,Wisconsin,Public,Female,Horticultural Science,5
+2016-17,Wisconsin,Public,Female,Mathematics and Statistics,88
+2016-17,Wisconsin,Public,Female,Nutrition Sciences,70
+2016-17,Wisconsin,Public,Female,Pharmaceutical Sciences,19
+2016-17,Wisconsin,Public,Female,Physical Sciences,53
+2016-17,Wisconsin,Public,Female,Poultry Science,0
+2016-17,Wisconsin,Public,Female,"Soil Science and Agronomy, General",0
+2016-17,Wisconsin,Public,Female,"Wildlife, Fish and Wildlands Science and Management",17
+2016-17,Wisconsin,Public,Male,Actuarial Science,60
+2016-17,Wisconsin,Public,Male,Agronomy and Crop Science,11
+2016-17,Wisconsin,Public,Male,"Animal Sciences, General",1
+2016-17,Wisconsin,Public,Male,Biological and Biomedical Sciences,460
+2016-17,Wisconsin,Public,Male,"Computer and Information Sciences, General",297
+2016-17,Wisconsin,Public,Male,Dairy Science,7
+2016-17,Wisconsin,Public,Male,Engineering,787
+2016-17,Wisconsin,Public,Male,Environmental Science,20
+2016-17,Wisconsin,Public,Male,Environmental Studies,23
+2016-17,Wisconsin,Public,Male,Food Science,17
+2016-17,Wisconsin,Public,Male,Forest Sciences and Biology,9
+2016-17,Wisconsin,Public,Male,Geographic Information Science and Cartography,2
+2016-17,Wisconsin,Public,Male,Horticultural Science,4
+2016-17,Wisconsin,Public,Male,Mathematics and Statistics,129
+2016-17,Wisconsin,Public,Male,Nutrition Sciences,14
+2016-17,Wisconsin,Public,Male,Pharmaceutical Sciences,22
+2016-17,Wisconsin,Public,Male,Physical Sciences,145
+2016-17,Wisconsin,Public,Male,Poultry Science,0
+2016-17,Wisconsin,Public,Male,"Soil Science and Agronomy, General",7
+2016-17,Wisconsin,Public,Male,"Wildlife, Fish and Wildlands Science and Management",7
+2016-17,Yale,Private,Female,Archeology,1
+2016-17,Yale,Private,Female,Biological and Biomedical Sciences,88
+2016-17,Yale,Private,Female,Cognitive Science,17
+2016-17,Yale,Private,Female,"Computer and Information Sciences, General",12
+2016-17,Yale,Private,Female,"Computer and Information Sciences, Other",2
+2016-17,Yale,Private,Female,"Computer Programming, Specific Applications",2
+2016-17,Yale,Private,Female,Engineering,37
+2016-17,Yale,Private,Female,Environmental Studies,12
+2016-17,Yale,Private,Female,Mathematics and Computer Science,1
+2016-17,Yale,Private,Female,Mathematics and Statistics,21
+2016-17,Yale,Private,Female,Physical Sciences,32
+2016-17,Yale,Private,Male,Archeology,2
+2016-17,Yale,Private,Male,Biological and Biomedical Sciences,73
+2016-17,Yale,Private,Male,Cognitive Science,11
+2016-17,Yale,Private,Male,"Computer and Information Sciences, General",51
+2016-17,Yale,Private,Male,"Computer and Information Sciences, Other",5
+2016-17,Yale,Private,Male,"Computer Programming, Specific Applications",2
+2016-17,Yale,Private,Male,Engineering,59
+2016-17,Yale,Private,Male,Environmental Studies,6
+2016-17,Yale,Private,Male,Mathematics and Computer Science,8
+2016-17,Yale,Private,Male,Mathematics and Statistics,56
+2016-17,Yale,Private,Male,Physical Sciences,42
