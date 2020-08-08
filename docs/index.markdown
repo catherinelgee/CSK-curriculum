@@ -59,7 +59,12 @@ Here is a list of resources that's not directly our course materials that you mi
 If there are any questions about curriculum on this website you can direct any and all emails to either [cskickstart@gmail.com](mailto:cskickstart@gmail.com) or [catherinegee@berkeley.edu](mailto:catherinegee@berkeley.edu)
 
 ### Teaching Assistants
+<div class="staff">
 {% for person in site.data.staff %}
 <img src="{{ person.Pic }}" width="150px">
+<div class="bio">
 <a href="{{ person.Website }}">{{ person.Name }}</a>
+<p>{{ person.Bio }}</p>
+</div>
 {% endfor %}
+</div>
