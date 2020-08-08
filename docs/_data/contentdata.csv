@@ -1,12 +1,12 @@
 Day,Section,Topic,Resources
-1,Python,Introductions / Variables and Values (1.5hrs),https://docs.google.com/presentation/d/1cxfYrb5Jm664Sif3erCw9abaM6vW8J9LIvpGn-6Y5XE/edit?usp=sharing|slides https://github.com/|lab
+1,Python,Introductions / Variables and Values (1.5hrs),https://docs.google.com/presentation/d/1cxfYrb5Jm664Sif3erCw9abaM6vW8J9LIvpGn-6Y5XE/edit?usp=sharing|slides
 ,Seminar,Data science,https://docs.google.com/presentation/d/1dnpnaFjCgg06DoOaASHWu-ofwxBUbGLxmTuIUAxHczE/edit?usp=sharing|slides https://colab.research.google.com/github/catherinelgee/CSK-curriculum/blob/master/data_seminar/csk_nb.ipynb|lab
-2,Python,Control / Loops (1.5 hrs),https://docs.google.com/presentation/d/1XkQ_ZriZCHfO4g9fHBiTTd9szojW_5oBdAhVp5Kmyvg/edit?usp=sharing|slides https://github.com/|lab
-,Seminar,EE (michelle),https://cs61a.org/|slides https://github.com/|lab
+2,Python,Control / Loops (1.5 hrs),https://docs.google.com/presentation/d/1XkQ_ZriZCHfO4g9fHBiTTd9szojW_5oBdAhVp5Kmyvg/edit?usp=sharing|slides
+,Seminar,Electrical Engineering (1),https://cs61a.org/|slides https://github.com/|lab
 3,Python,Functionality (1.5 hrs),https://docs.google.com/presentation/d/1x0rVTSPPJYsphn875POtr_KR9LvuyKnbg_wq4B_THgI/edit?usp=sharing|slides https://github.com/|lab
-,Seminar,WEBDEV1,https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
-4,Python,Project (3 hrs),https://cs61a.org/|OH
+,Seminar,Web Dev Seminar (1),https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
+4,Python,Project (1),
 ,Python (extra),Recursion / Tree Recursion (extra lecture),https://docs.google.com/presentation/d/1cznthKb2hZ7vgkBmRozBUwxqTdMvx0MP7xZRtAPZVaA/edit?usp=sharing|slides
-,Seminar,WEBDEV2,https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
-5,Seminar,EE (diyah),https://cs61a.org/|slides https://github.com/|lab
-,Project Review,Showcase and Farewells,
+,Seminar,Web Dev Seminar (2),https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
+5,Python,Project (2),
+,Seminar,Electrical Engineering (2),https://cs61a.org/|slides

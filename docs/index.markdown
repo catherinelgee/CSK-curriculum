@@ -8,7 +8,7 @@ layout: home
 ---
 
 ## CSK @ Berkeley
-Jump to <a href="#CONTENT">content</a>, <a href="#RESOURCES">resources</a>, <a href="#STAFF">staff</a>
+Jump to <a href="#CONTENT">content</a>, <a href="#RESOURCES">resources</a>, <a href="#QUESTIONS">feedback</a>
 
 ---
 <a id="CONTENT"></a>
@@ -54,17 +54,8 @@ Here is a list of resources that's not directly our course materials that you mi
 - [AWE Guide to Declaring CS](https://awe.berkeley.edu/2020/04/23/guide-to-declaring-cs/)
 
 ---
-<a id= "STAFF"></a>
-## Staff
+<a id= "QUESTIONS"></a>
+## Feedback
 If there are any questions about curriculum on this website you can direct any and all emails to either [cskickstart@gmail.com](mailto:cskickstart@gmail.com) or [catherinegee@berkeley.edu](mailto:catherinegee@berkeley.edu)
 
-### Teaching Assistants
-<div class="staff">
-{% for person in site.data.staff %}
-<img src="{{ person.Pic }}" width="150px">
-<div class="bio">
-<a href="{{ person.Website }}">{{ person.Name }}</a>
-<p>{{ person.Bio }}</p>
-</div>
-{% endfor %}
-</div>
+If you would like to do this in an anonymous fashion you can fill out [this form](https://forms.gle/xeiKVLnGqBDeQv3u9) as well.
