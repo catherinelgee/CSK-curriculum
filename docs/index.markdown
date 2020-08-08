@@ -49,7 +49,7 @@ Here is a list of resources that's not directly our course materials that you mi
         - [CS88](https://cs88-website.github.io/): this is a course meant to replace 61A for a data science intended major/minor
     - [CS10](https://cs10.org/): Intro CS class for those with no prior experience (take before CS61A)
     - [CS61A](https://cs61a.org/): Intro CS class
-    - [EE16A](http://inst.eecs.berkeley.edu/~ee16a/): Intro EE class
+    - [EECS16A](http://inst.eecs.berkeley.edu/~ee16a/): Intro EE class
 - [HKN](https://hkn.eecs.berkeley.edu/): Useful for looking for past exams as well as course tracks you can take
 - [AWE Guide to Declaring CS](https://awe.berkeley.edu/2020/04/23/guide-to-declaring-cs/)
 
