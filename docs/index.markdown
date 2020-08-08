@@ -60,6 +60,6 @@ If there are any questions about curriculum on this website you can direct any a
 
 ### Teaching Assistants
 {% for person in site.data.staff %}
-![{{ person.Name }}]({{ person.Pic }})
-[{{ person.Name }}]({{ person.Website }})
+<img src="{{ person.Pic }}" width="150px">
+<a href="{{ person.Website }}">{{ person.Name }}</a>
 {% endfor %}
