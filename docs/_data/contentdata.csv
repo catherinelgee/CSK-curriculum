@@ -1,12 +1,12 @@
 Day,Section,Topic,Resources
-1,Python,Introductions / Variables and Values (1.5hrs),https://docs.google.com/presentation/d/1cxfYrb5Jm664Sif3erCw9abaM6vW8J9LIvpGn-6Y5XE/edit?usp=sharing|slides
+1,Python,Introductions / Variables and Values,https://docs.google.com/presentation/d/1cxfYrb5Jm664Sif3erCw9abaM6vW8J9LIvpGn-6Y5XE/edit?usp=sharing|slides
 ,Seminar,Data Science,https://docs.google.com/presentation/d/1_qVOhpkhPx8Ii3EanqDp6MqoYTZjTQO4ChWEjjIHZgY/edit?usp=sharing|slides https://colab.research.google.com/github/catherinelgee/CSK-curriculum/blob/master/data_seminar/csk_nb.ipynb|lab https://drive.google.com/uc?export=download&id=1fdkpc4cuAj1sLeD5ULQ5dwnPfSHCb9xG|download
-2,Python,Control / Loops (1.5 hrs),https://docs.google.com/presentation/d/1XkQ_ZriZCHfO4g9fHBiTTd9szojW_5oBdAhVp5Kmyvg/edit?usp=sharing|slides
-,Seminar,Electrical Engineering (1),https://docs.google.com/presentation/d/1PjKaBTUJ4YV5-rICCbYljwljTZiFGOZnezyjsj97s2I/edit?usp=sharing|slides
+2,Python,Control / Loops,https://docs.google.com/presentation/d/1XkQ_ZriZCHfO4g9fHBiTTd9szojW_5oBdAhVp5Kmyvg/edit?usp=sharing|slides
+,Seminar,Electrical Engineering I,https://docs.google.com/presentation/d/1PjKaBTUJ4YV5-rICCbYljwljTZiFGOZnezyjsj97s2I/edit?usp=sharing|slides
 3,Python,Functionality,https://docs.google.com/presentation/d/1x0rVTSPPJYsphn875POtr_KR9LvuyKnbg_wq4B_THgI/edit?usp=sharing|slides
-,Seminar,Web Dev Seminar (1),https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
-4,Python,Project (1),https://forms.gle/VK9cFdbteAEJjWWZ8|form https://docs.google.com/spreadsheets/d/1A6rWxvryZDOXYnqSjXV-X9lTaiXY62cOCpP37GVhCM0/edit?usp=sharing|queue
+,Seminar,Web Dev Seminar I,https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
+4,Python,Project I,https://forms.gle/VK9cFdbteAEJjWWZ8|form https://docs.google.com/spreadsheets/d/1A6rWxvryZDOXYnqSjXV-X9lTaiXY62cOCpP37GVhCM0/edit?usp=sharing|queue
 ,Python (extra),Recursion / Tree Recursion (extra lecture),https://docs.google.com/presentation/d/1cznthKb2hZ7vgkBmRozBUwxqTdMvx0MP7xZRtAPZVaA/edit?usp=sharing|slides
-,Seminar,Web Dev Seminar (2),https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
-5,Python,Project (2),https://forms.gle/VK9cFdbteAEJjWWZ8|form https://docs.google.com/spreadsheets/d/1A6rWxvryZDOXYnqSjXV-X9lTaiXY62cOCpP37GVhCM0/edit?usp=sharing|queue
-,Seminar,Electrical Engineering (2),
+,Seminar,Web Dev Seminar II,https://docs.google.com/presentation/d/1PVFiew8qutU9xHpLnMmflj6gyE8PVbo2pxHMzwT3oHc/edit?usp=sharing|slides
+5,Python,Project II,https://forms.gle/VK9cFdbteAEJjWWZ8|form https://docs.google.com/spreadsheets/d/1A6rWxvryZDOXYnqSjXV-X9lTaiXY62cOCpP37GVhCM0/edit?usp=sharing|queue
+,Seminar,Electrical Engineering II,
