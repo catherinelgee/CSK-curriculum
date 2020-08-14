@@ -15,6 +15,10 @@ Jump to <a href="#CONTENT">content</a>, <a href="#RESOURCES">resources</a>, <a h
 ## Content
 - This schedule is tentative and due to change
 
+###Announcements
+- For those who want a recap or review on the first EE lecture Michelle has offered to teach the material from Tuesday! (it's the same time as EE II as EE II builds on EE I)
+- Fill our [project showcase slides](https://docs.google.com/presentation/d/1EA-pLOa1KCohFCdgugLZR34pbxQfv7Y5JC-2794wweM/edit?usp=sharing) by showcase tomorrow
+
 <table>
   {% for row in site.data.contentdata %}
     {% if forloop.first %}
